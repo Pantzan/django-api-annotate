@@ -1,4 +1,4 @@
-This is a Django app using REST framework to import data from a csv file and then provide an api point to view the stored metrices in various filters and forms.
+This is a Django app sample using REST framework to import data from a csv file and then provide an api point to view the stored metrices in various filters and forms.
 
 ### installation:
 - pip3 install -r requirements
